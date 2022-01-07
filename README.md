@@ -39,6 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * Barbotin Valentin
 * Bourdonnay Kyliann
+* Coupet Sébastien
 
 Date du jour : 07/01/2022
 
